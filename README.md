@@ -17,4 +17,5 @@ You should see this. Notice the weirdly long parameter name:
     `label: "_autoDeleteDistance"`
 
  - Relaunch the extension & repeat the **Testing** steps. You should see this. Notice how the weirdly long parameter name is gone:
+ 
 ![](https://raw.githubusercontent.com/Janne252/vscode-test-signatureHelpProvider/master/images/issue_after.png)
